@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Button from "@material-ui/core/Button";
-import TextField from "@material-ui/core/TextField";
 import Dialog from "@material-ui/core/Dialog";
 import DialogActions from "@material-ui/core/DialogActions";
 import DialogContent from "@material-ui/core/DialogContent";
@@ -49,16 +48,16 @@ class PaletteMetaForm extends Component {
     });
   }
   savePalette(emoji) {
-    console.log(emoji.native);
     const newPalette = {
       paletteName: this.state.newPaletteName,
       emoji: emoji.native
     };
     this.props.handleSubmit(newPalette);
+    this.setState({ stage: "" });
   }
   render() {
     const { newPaletteName, stage } = this.state;
-    const { hideForm, handleSubmit } = this.props;
+    const { hideForm } = this.props;
     return (
       <div>
         <Dialog open={stage === "emoji"} onClose={hideForm}>

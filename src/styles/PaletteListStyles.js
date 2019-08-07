@@ -13,6 +13,8 @@ export default {
     display: "flex",
     alignItems: "flex-start",
     justifyContent: "center",
+    overflow: "scroll",
+    overflowX: "hidden",
     /* background by SVGBackgrounds.com */
     backgroundColor: "#1805aa",
     backgroundImage: `url(${bg})`
