@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/color-app/static/css/main.052967ec.chunk.css",
-    "main.js": "/color-app/static/js/main.809c7238.chunk.js",
-    "main.js.map": "/color-app/static/js/main.809c7238.chunk.js.map",
-    "runtime~main.js": "/color-app/static/js/runtime~main.bf85e199.js",
-    "runtime~main.js.map": "/color-app/static/js/runtime~main.bf85e199.js.map",
-    "static/css/2.e8e75e1a.chunk.css": "/color-app/static/css/2.e8e75e1a.chunk.css",
-    "static/js/2.1820193e.chunk.js": "/color-app/static/js/2.1820193e.chunk.js",
-    "static/js/2.1820193e.chunk.js.map": "/color-app/static/js/2.1820193e.chunk.js.map",
-    "index.html": "/color-app/index.html",
-    "precache-manifest.72a15a099e16ecc34dcfcb4bd9633464.js": "/color-app/precache-manifest.72a15a099e16ecc34dcfcb4bd9633464.js",
-    "service-worker.js": "/color-app/service-worker.js",
-    "static/css/2.e8e75e1a.chunk.css.map": "/color-app/static/css/2.e8e75e1a.chunk.css.map",
-    "static/css/main.052967ec.chunk.css.map": "/color-app/static/css/main.052967ec.chunk.css.map",
-    "static/media/bg.svg": "/color-app/static/media/bg.18e98464.svg"
+    "main.css": "/color_app/static/css/main.052967ec.chunk.css",
+    "main.js": "/color_app/static/js/main.52fc8a8e.chunk.js",
+    "main.js.map": "/color_app/static/js/main.52fc8a8e.chunk.js.map",
+    "runtime~main.js": "/color_app/static/js/runtime~main.4e0696c6.js",
+    "runtime~main.js.map": "/color_app/static/js/runtime~main.4e0696c6.js.map",
+    "static/css/2.e8e75e1a.chunk.css": "/color_app/static/css/2.e8e75e1a.chunk.css",
+    "static/js/2.1820193e.chunk.js": "/color_app/static/js/2.1820193e.chunk.js",
+    "static/js/2.1820193e.chunk.js.map": "/color_app/static/js/2.1820193e.chunk.js.map",
+    "index.html": "/color_app/index.html",
+    "precache-manifest.3d4fc2fb4674a4e4bae770db9fc8d046.js": "/color_app/precache-manifest.3d4fc2fb4674a4e4bae770db9fc8d046.js",
+    "service-worker.js": "/color_app/service-worker.js",
+    "static/css/2.e8e75e1a.chunk.css.map": "/color_app/static/css/2.e8e75e1a.chunk.css.map",
+    "static/css/main.052967ec.chunk.css.map": "/color_app/static/css/main.052967ec.chunk.css.map",
+    "static/media/bg.svg": "/color_app/static/media/bg.18e98464.svg"
   }
 }
