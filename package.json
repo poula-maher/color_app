@@ -1,5 +1,5 @@
 {
-  "name": "colors-app",
+  "name": "color_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
     "react-sortable-hoc": "^1.9.1",
     "react-transition-group": "^4.2.2"
   },
-  "homepage": "https://poulamaher.github.io/color-app",
+  "homepage": "https://poula-maher.github.io/color-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
